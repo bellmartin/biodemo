@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/bellmartin/biodemo.svg?branch=master)](https://travis-ci.org/USERNAME/biodemo)
+[![travis](https://travis-ci.org/bellmartin/biodemo.svg?branch=master)](https://travis-ci.org/bellmartin/biodemo)
 [![codecov](https://codecov.io/github/bellmartin/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/bellmartin/biodemo)
 
 # Overview 
